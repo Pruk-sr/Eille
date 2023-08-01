@@ -7,13 +7,13 @@ const DEFAULT_CONFIG = {
     MONGO_URI: "mongodb+srv://Pruk:EjPjIe2TcScMXaNM@ely-beta.0qw6x5m.mongodb.net/?retryWrites=true&w=majority",
 
     // HTTP,
-    HTTP_HOST: "localhost",
+    HTTP_HOST: "eille.vercel.app",
     HTTP_PORT: 8008,
 
     // Upload
     MAX_FILE_MB: 512,
     MAX_PREMIUM_FILE_MB: 1024,
-    DOMAIN_NAME: "file-hosting-48313",
+    DOMAIN_NAME: "eille.vercel.app",
     SLOGAN: "Free temporary file hosting for everyone!",
     DISALLOWED_IDS: ["upload", "oauth", "admin", "linkAccount", "c", "auth", "fa", "privacy", ""],
 
