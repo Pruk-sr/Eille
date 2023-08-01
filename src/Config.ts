@@ -7,7 +7,7 @@ const DEFAULT_CONFIG = {
     MONGO_URI: "mongodb+srv://Pruk:EjPjIe2TcScMXaNM@ely-beta.0qw6x5m.mongodb.net/?retryWrites=true&w=majority",
 
     // HTTP,
-    HTTP_HOST: "eille.vercel.app",
+    HTTP_HOST: "0.0.0.0",
     HTTP_PORT: 8008,
 
     // Upload
